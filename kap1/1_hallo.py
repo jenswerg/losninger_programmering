@@ -1,1 +1,1 @@
-print("Hallo, Norge")
+print("Hello world!")
